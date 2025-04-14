@@ -1,4 +1,3 @@
 {
-  "Value": "This is 1",
-  "Value2": "Next value"
+  "Value": "This is 1"
 }
